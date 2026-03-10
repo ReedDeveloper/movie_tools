@@ -1,0 +1,47 @@
+{
+  "_cached_at": "2026-03-10T20:56:53.693573",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.5,
+      "blacklisted": "available",
+      "title": "浪浪山小妖怪‎ (2025)",
+      "url": "https://movie.douban.com/subject/36438475/",
+      "collection_status": "",
+      "rate": "8.5",
+      "short_comment": {
+        "content": "不知道为啥看到话唠变得沉默有点儿莫名伤心…",
+        "author": "Hey Johnny"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "於水"
+      ],
+      "actors": [
+        "陈子平",
+        "路扬",
+        "董汶亮",
+        "刘琮",
+        "林强",
+        "张闻天",
+        "李盟",
+        "陈喆",
+        "付博文",
+        "王上斌"
+      ],
+      "duration": "118分钟",
+      "region": "中国大陆",
+      "playable": true,
+      "id": "36438475",
+      "types": [
+        "剧情",
+        "喜剧",
+        "动画",
+        "奇幻"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

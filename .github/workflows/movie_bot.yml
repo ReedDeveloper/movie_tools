@@ -1,0 +1,142 @@
+name: 电影片单自动任务
+
+on:
+  schedule:
+    # 场景二（定时推荐）：每月 1 日 00:00 UTC 触发（1 月周期）
+    - cron: '0 0 1 * *'
+    # 场景二（定时推荐）：每两周周一 00:00 UTC 触发（2 周周期）
+    - cron: '0 0 1,15 * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: '运行模式'
+        required: true
+        default: 'scheduled'
+        type: choice
+        options:
+          - scheduled
+          - batch
+      months_window:
+        description: '[scheduled] 最近 N 个月（1~5）'
+        required: false
+        default: '1'
+      years_window:
+        description: '[batch] 最近 N 年（1~5）'
+        required: false
+        default: '2'
+      min_rating:
+        description: '最低评分（scheduled 默认 6.0，batch 默认 5.0）'
+        required: false
+        default: ''
+      max_candidates:
+        description: '推荐数量（scheduled 默认 5，batch 默认 15）'
+        required: false
+        default: ''
+      push_interval:
+        description: '[scheduled] 推送周期（2weeks / 1month）'
+        required: false
+        default: '1month'
+        type: choice
+        options:
+          - 1month
+          - 2weeks
+      push:
+        description: '是否推送（true/false）'
+        required: false
+        default: 'false'
+      push_channel:
+        description: '推送通道（webhook/serverchan/bark/file）'
+        required: false
+        default: 'webhook'
+
+jobs:
+  run-movie-tools:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 定时触发（schedule）：运行定时推荐 ─────────────────────
+      - name: Run scheduled recommendation (cron)
+        if: github.event_name == 'schedule'
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          MOVIE_PUSH_WEBHOOK_URL: ${{ secrets.MOVIE_PUSH_WEBHOOK_URL }}
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+          BARK_PUSH_URL: ${{ secrets.BARK_PUSH_URL }}
+        run: |
+          python main.py digest \
+            --mode scheduled \
+            --months-window 1 \
+            --min-rating 6.0 \
+            --max-candidates 5 \
+            --push-interval 1month \
+            --push-channel webhook \
+            --push \
+            --playwright-repair
+
+      # ── 手动触发（workflow_dispatch）：按输入参数运行 ──────────
+      - name: Build CLI args (dispatch)
+        if: github.event_name == 'workflow_dispatch'
+        id: build_args
+        run: |
+          MODE="${{ github.event.inputs.mode }}"
+          MIN_RATING="${{ github.event.inputs.min_rating }}"
+          MAX_CAND="${{ github.event.inputs.max_candidates }}"
+          PUSH="${{ github.event.inputs.push }}"
+          CHANNEL="${{ github.event.inputs.push_channel }}"
+          PUSH_FLAG=""
+          if [ "$PUSH" = "true" ]; then PUSH_FLAG="--push"; fi
+
+          if [ "$MODE" = "batch" ]; then
+            YEARS="${{ github.event.inputs.years_window }}"
+            [ -z "$MIN_RATING" ] && MIN_RATING="5.0"
+            [ -z "$MAX_CAND" ] && MAX_CAND="15"
+            echo "cli_args=--mode batch --years-window $YEARS --min-rating $MIN_RATING --max-candidates $MAX_CAND --push-channel $CHANNEL $PUSH_FLAG" >> $GITHUB_OUTPUT
+          else
+            MONTHS="${{ github.event.inputs.months_window }}"
+            INTERVAL="${{ github.event.inputs.push_interval }}"
+            [ -z "$MIN_RATING" ] && MIN_RATING="6.0"
+            [ -z "$MAX_CAND" ] && MAX_CAND="5"
+            echo "cli_args=--mode scheduled --months-window $MONTHS --min-rating $MIN_RATING --max-candidates $MAX_CAND --push-interval $INTERVAL --push-channel $CHANNEL $PUSH_FLAG --playwright-repair" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run movie tools (dispatch)
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          MOVIE_PUSH_WEBHOOK_URL: ${{ secrets.MOVIE_PUSH_WEBHOOK_URL }}
+          SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
+          BARK_PUSH_URL: ${{ secrets.BARK_PUSH_URL }}
+        run: |
+          python main.py digest ${{ steps.build_args.outputs.cli_args }}
+
+      - name: Archive results
+        uses: actions/upload-artifact@v4
+        with:
+          name: movie-data
+          path: |
+            output/*.csv
+            output/*.md
+            output/*.xlsx
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add output/ || true
+          git diff --quiet && git diff --staged --quiet || \
+            git commit -m "chore: update movie data [skip ci]" && git push || true

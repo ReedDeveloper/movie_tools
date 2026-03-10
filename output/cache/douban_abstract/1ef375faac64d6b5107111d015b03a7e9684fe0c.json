@@ -1,0 +1,37 @@
+{
+  "_cached_at": "2026-03-10T20:59:52.730248",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 2.5,
+      "blacklisted": "available",
+      "title": "姐妹 시스터‎ (2026)",
+      "url": "https://movie.douban.com/subject/37040802/",
+      "collection_status": "",
+      "rate": "5.1",
+      "short_comment": {
+        "content": "喜欢李洙赫的应该能喜欢，欧巴演反派张力够足，其他就…",
+        "author": "当叔叔的年龄"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "陈成文"
+      ],
+      "actors": [
+        "郑知晓",
+        "李洙赫",
+        "车珠英"
+      ],
+      "duration": "86分钟",
+      "region": "韩国",
+      "playable": false,
+      "id": "37040802",
+      "types": [
+        "惊悚"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

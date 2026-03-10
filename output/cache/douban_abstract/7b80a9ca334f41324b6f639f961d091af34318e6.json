@@ -1,0 +1,39 @@
+{
+  "_cached_at": "2026-03-10T20:59:37.771209",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.0,
+      "blacklisted": "available",
+      "title": "浴火之森 Cortafuego‎ (2026)",
+      "url": "https://movie.douban.com/subject/37049749/",
+      "collection_status": "",
+      "rate": "5.7",
+      "short_comment": {
+        "content": "m2618:百口莫辩的无力感。还好没有参杂外人，孩子说的真话家长选择相信，不像《狩猎》中女孩选择欺骗。",
+        "author": "Timing"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "大卫·维多利"
+      ],
+      "actors": [
+        "贝伦·奎斯塔",
+        "戴安娜·戈麦斯",
+        "恩里克·奥克尔",
+        "华金·弗里尔"
+      ],
+      "duration": "107分钟",
+      "region": "西班牙",
+      "playable": false,
+      "id": "37049749",
+      "types": [
+        "剧情",
+        "惊悚"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

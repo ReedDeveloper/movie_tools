@@ -1,0 +1,45 @@
+{
+  "_cached_at": "2026-03-10T20:57:35.597271",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "巴黎夏日 Le Rendez-vous de l'été‎ (2025)",
+      "url": "https://movie.douban.com/subject/36742572/",
+      "collection_status": "",
+      "rate": "8.1",
+      "short_comment": {
+        "content": "清新愉悦，女主这个角色写得太好，游离于热闹之外，不被人理解却有着最坚定的自我，在奥运和抗议运动的现实底色上闪耀着迷人光芒。",
+        "author": "陀螺凡达可"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "瓦伦丁·卡迪奇"
+      ],
+      "actors": [
+        "布兰迪尼·马德克",
+        "英迪亚·海尔",
+        "阿卡帝·拉德夫",
+        "马蒂亚斯·雅克金",
+        "卢·德卢兹",
+        "贝里尔·加斯塔尔德洛",
+        "皮埃尔·塞瓦尔",
+        "洛蕾特·尼森",
+        "奥拉利亚·佩蒂特",
+        "艾哈迈德·法塔特"
+      ],
+      "duration": "77分钟",
+      "region": "法国",
+      "playable": true,
+      "id": "36742572",
+      "types": [
+        "剧情",
+        "喜剧"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

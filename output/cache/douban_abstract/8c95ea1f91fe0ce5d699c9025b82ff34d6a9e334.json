@@ -1,0 +1,45 @@
+{
+  "_cached_at": "2026-03-10T20:59:05.296639",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.5,
+      "blacklisted": "available",
+      "title": "眨眼之间 In the Blink of an Eye‎ (2026)",
+      "url": "https://movie.douban.com/subject/36116692/",
+      "collection_status": "",
+      "rate": "6.6",
+      "short_comment": {
+        "content": "啊，无数生活的碎片组成了生命，泪目。",
+        "author": "Ziggy"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "安德鲁·斯坦顿"
+      ],
+      "actors": [
+        "凯特·麦克金农",
+        "戴维德·迪格斯",
+        "拉什达·琼斯",
+        "Jorge Vargas",
+        "塔娜亚·比蒂",
+        "斯凯沃克·休斯",
+        "Rhona Rees",
+        "Tatyana Rose Baptiste",
+        "Nox Watkins",
+        "Tyson Night"
+      ],
+      "duration": "94分钟",
+      "region": "美国",
+      "playable": false,
+      "id": "36116692",
+      "types": [
+        "剧情",
+        "科幻"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

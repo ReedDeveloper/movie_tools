@@ -1,0 +1,48 @@
+{
+  "_cached_at": "2026-03-10T20:59:47.018633",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 2.5,
+      "blacklisted": "available",
+      "title": "大蛇5：怪兽都市‎ (2026)",
+      "url": "https://movie.douban.com/subject/38222804/",
+      "collection_status": "",
+      "rate": "5.4",
+      "short_comment": {
+        "content": "好家伙，原来是大制作啊",
+        "author": "Thomas"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "林珍钊"
+      ],
+      "actors": [
+        "张傲月",
+        "梁颂晴",
+        "包贝尔",
+        "释彦能",
+        "姜超",
+        "苑琼丹",
+        "石兆琪",
+        "邬天",
+        "谭琍敏",
+        "毛凡"
+      ],
+      "duration": "107分钟",
+      "region": "中国大陆",
+      "playable": true,
+      "id": "38222804",
+      "types": [
+        "动作",
+        "惊悚",
+        "冒险",
+        "恐怖",
+        "灾难"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

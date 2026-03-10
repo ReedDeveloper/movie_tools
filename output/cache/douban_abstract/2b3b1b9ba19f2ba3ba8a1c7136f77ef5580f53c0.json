@@ -1,0 +1,48 @@
+{
+  "_cached_at": "2026-03-10T20:57:14.041855",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "新·驯龙高手 How to Train Your Dragon‎ (2025)",
+      "url": "https://movie.douban.com/subject/36247731/",
+      "collection_status": "",
+      "rate": "8.3",
+      "short_comment": {
+        "content": "我在影厅走神了，想了一个在看动画电影时没想过的问题，为什么龙这么容易接受了人类。",
+        "author": "米米"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "迪恩·戴布洛伊"
+      ],
+      "actors": [
+        "梅森·泰晤士",
+        "妮可·帕克",
+        "杰拉德·巴特勒",
+        "尼克·弗罗斯特",
+        "加布里埃尔·豪尔",
+        "朱利安·丹尼森",
+        "布朗温·詹姆斯",
+        "哈里·特雷瓦尔德温",
+        "默里·麦克阿瑟",
+        "彼得·塞拉菲诺威茨"
+      ],
+      "duration": "126分钟",
+      "region": "美国",
+      "playable": true,
+      "id": "36247731",
+      "types": [
+        "剧情",
+        "喜剧",
+        "动作",
+        "奇幻",
+        "冒险"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

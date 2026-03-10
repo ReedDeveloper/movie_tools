@@ -1,0 +1,47 @@
+{
+  "_cached_at": "2026-03-10T20:59:29.332914",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.0,
+      "blacklisted": "available",
+      "title": "悬崖绝壁 The Bluff‎ (2026)",
+      "url": "https://movie.douban.com/subject/35373284/",
+      "collection_status": "",
+      "rate": "6.0",
+      "short_comment": {
+        "content": "很套路，动作不错",
+        "author": "今言"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "弗兰克·E.弗劳尔斯"
+      ],
+      "actors": [
+        "佩丽冉卡·曹帕拉",
+        "卡尔·厄本",
+        "特穆拉·莫里森",
+        "伊斯梅尔·克鲁斯·科尔多瓦",
+        "加里·比德尔",
+        "萨菲亚·奥克利-格林",
+        "大卫·菲尔德",
+        "扎克·莫里斯",
+        "格雷格·哈顿",
+        "萨钦·乔伯"
+      ],
+      "duration": "",
+      "region": "美国",
+      "playable": false,
+      "id": "35373284",
+      "types": [
+        "剧情",
+        "动作",
+        "历史",
+        "冒险"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_cached_at": "2026-03-10T20:58:49.422687",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.5,
+      "blacklisted": "available",
+      "title": "马尔切洛·埃尔南德斯：美国男孩 Marcello Hernandez: American Boy‎ (2026)",
+      "url": "https://movie.douban.com/subject/37920473/",
+      "collection_status": "",
+      "rate": "7.2",
+      "short_comment": {
+        "content": "有几个点好笑，大部分还行。",
+        "author": "Thè"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "Nicholaus Goossen"
+      ],
+      "actors": [
+        "马尔切洛·埃尔南德斯"
+      ],
+      "duration": "60分钟",
+      "region": "美国",
+      "playable": false,
+      "id": "37920473",
+      "types": [
+        "脱口秀"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

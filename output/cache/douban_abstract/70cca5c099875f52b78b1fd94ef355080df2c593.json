@@ -1,0 +1,36 @@
+{
+  "_cached_at": "2026-03-10T20:56:25.207340",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.5,
+      "blacklisted": "available",
+      "title": "非穷尽列举 National Theatre Live: Inter Alia‎ (2025)",
+      "url": "https://movie.douban.com/subject/37293378/",
+      "collection_status": "",
+      "rate": "9.2",
+      "short_comment": {
+        "content": "如果字幕坚持把每一个feminist都翻成“女人”的话，也行，每个女人都应该是女权主义者",
+        "author": "blacky"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "贾斯汀·马丁"
+      ],
+      "actors": [
+        "裴淳华",
+        "杰米·格洛弗"
+      ],
+      "duration": "112分钟",
+      "region": "英国",
+      "playable": false,
+      "id": "37293378",
+      "types": [
+        "剧情"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

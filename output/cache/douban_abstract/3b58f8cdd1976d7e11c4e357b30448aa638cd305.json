@@ -1,0 +1,45 @@
+{
+  "_cached_at": "2026-03-10T20:59:21.483055",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.0,
+      "blacklisted": "available",
+      "title": "惊蛰无声‎ (2026)",
+      "url": "https://movie.douban.com/subject/37242440/",
+      "collection_status": "",
+      "rate": "6.0",
+      "short_comment": {
+        "content": "给我一种成本很低的感觉",
+        "author": "芒果斯嘉丽"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "张艺谋"
+      ],
+      "actors": [
+        "易烊千玺",
+        "朱一龙",
+        "宋佳",
+        "雷佳音",
+        "杨幂",
+        "张译",
+        "刘诗诗",
+        "刘耀文",
+        "林博洋",
+        "潘斌龙"
+      ],
+      "duration": "104分钟",
+      "region": "中国大陆",
+      "playable": false,
+      "id": "37242440",
+      "types": [
+        "剧情",
+        "犯罪"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

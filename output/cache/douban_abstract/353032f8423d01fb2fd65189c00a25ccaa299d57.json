@@ -1,0 +1,45 @@
+{
+  "_cached_at": "2026-03-10T20:59:23.724810",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.0,
+      "blacklisted": "available",
+      "title": "爆水管‎ (2026)",
+      "url": "https://movie.douban.com/subject/37134618/",
+      "collection_status": "",
+      "rate": "6.0",
+      "short_comment": {
+        "content": "你有多久没有在盗墓的时候又唱又跳了？",
+        "author": "大型恶魔酱"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "周涤啡"
+      ],
+      "actors": [
+        "彭于晏",
+        "艾伦",
+        "周游",
+        "闫佩伦",
+        "杨皓宇",
+        "蒋雪鸣",
+        "付航",
+        "潘斌龙",
+        "卜钰",
+        "张琪"
+      ],
+      "duration": "103分钟",
+      "region": "中国大陆",
+      "playable": true,
+      "id": "37134618",
+      "types": [
+        "喜剧",
+        "犯罪"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

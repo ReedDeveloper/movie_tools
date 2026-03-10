@@ -1,0 +1,40 @@
+{
+  "_cached_at": "2026-03-10T20:59:09.326833",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.5,
+      "blacklisted": "available",
+      "title": "手遮天‎ (2026)",
+      "url": "https://movie.douban.com/subject/37480812/",
+      "collection_status": "",
+      "rate": "6.6",
+      "short_comment": {
+        "content": "剧情很一般，但武打戏拍得真不错，主角与九纹龙、七面狐狸、同事李震、上司黄士宁的打斗，不同场所、不同招式、不同兵器，花样很足，动作设计诚意满满，看得很过瘾。",
+        "author": "有心打扰"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "刘文普"
+      ],
+      "actors": [
+        "刘峰超",
+        "袁福福",
+        "淳于珊珊",
+        "刘超"
+      ],
+      "duration": "90分钟",
+      "region": "中国大陆",
+      "playable": true,
+      "id": "37480812",
+      "types": [
+        "动作",
+        "犯罪",
+        "古装"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

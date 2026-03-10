@@ -1,0 +1,46 @@
+{
+  "_cached_at": "2026-03-10T20:57:59.806382",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "你好，爱美丽 Amélie et la métaphysique des tubes‎ (2025)",
+      "url": "https://movie.douban.com/subject/36394612/",
+      "collection_status": "",
+      "rate": "8.0",
+      "short_comment": {
+        "content": "Infp的内心独白",
+        "author": "木兮"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "迈利斯·瓦拉德",
+        "韩良畴"
+      ],
+      "actors": [
+        "洛伊斯·夏庞蒂埃",
+        "维多利亚·格罗布瓦",
+        "藤森由美",
+        "凯西·塞尔达",
+        "马克·阿诺",
+        "莱蒂西亚·科琳",
+        "海莉·伊森堡",
+        "艾萨克·舒姆斯基",
+        "弗朗索瓦·雷森",
+        "艾米露·霍姆斯"
+      ],
+      "duration": "79分钟",
+      "region": "法国",
+      "playable": false,
+      "id": "36394612",
+      "types": [
+        "动画",
+        "家庭"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

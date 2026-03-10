@@ -1,0 +1,43 @@
+{
+  "_cached_at": "2026-03-10T20:57:55.662646",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "好孩子‎ (2025)",
+      "url": "https://movie.douban.com/subject/36085606/",
+      "collection_status": "",
+      "rate": "8.0",
+      "short_comment": {
+        "content": "#OAFF 21 有幸看了全球初映，完成度很高又充满着人文关怀的商业片。每个人物都塑造得不错，尤其是主演许瑞奇真的太出色，把变装皇后举手投足间的风情流转，娇嗔怒骂一颦一笑演绎得淋漓尽致，可以说是一人撑起了整部影片。剧本稍有点缺陷，前面大半都好好的，观众泪点被导演拿捏得死死，但还没来得及擦干眼角，末尾硬是被突然强塞一个剧情冲突，画蛇添足了，没必要。",
+        "author": "孙此方"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "王国燊"
+      ],
+      "actors": [
+        "许瑞奇",
+        "洪慧芳",
+        "路斯明",
+        "吴清樑",
+        "周智慧",
+        "李文海",
+        "林志强",
+        "刘怡伶"
+      ],
+      "duration": "105分钟",
+      "region": "新加坡",
+      "playable": false,
+      "id": "36085606",
+      "types": [
+        "剧情",
+        "同性"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "_cached_at": "2026-03-10T20:59:39.538773",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.0,
+      "blacklisted": "available",
+      "title": "我们不是陌生人 We Are All Strangers‎ (2026)",
+      "url": "https://movie.douban.com/subject/35328629/",
+      "collection_status": "",
+      "rate": "5.7",
+      "short_comment": {
+        "content": "讲述新加坡底层一对父子的爱情故事，不如说是父子俩闯祸、两个陌生女人以爱之名为他们兜底的故事，心疼19岁早孕的钢琴少女和充满街头智慧的beer auntie，一个蹉跎了青春（甚至阶层滑落？）一个蹲了牢房，到底要奉献/献祭多少女人才能让一个男孩真正成为男人？",
+        "author": "项碧德"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "陈哲艺"
+      ],
+      "actors": [
+        "杨雁雁",
+        "许家乐",
+        "林伟文",
+        "林咏谊"
+      ],
+      "duration": "157分钟",
+      "region": "新加坡",
+      "playable": false,
+      "id": "35328629",
+      "types": [
+        "剧情"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

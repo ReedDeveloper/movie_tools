@@ -1,0 +1,46 @@
+{
+  "_cached_at": "2026-03-10T20:57:31.045168",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "捕风追影‎ (2025)",
+      "url": "https://movie.douban.com/subject/36600459/",
+      "collection_status": "",
+      "rate": "8.1",
+      "short_comment": {
+        "content": "社会卷成这样 还得看两个七旬老人打架",
+        "author": "不在线上"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "杨子"
+      ],
+      "actors": [
+        "成龙",
+        "张子枫",
+        "梁家辉",
+        "此沙",
+        "文俊辉",
+        "周政杰",
+        "王杍逸",
+        "郎月婷",
+        "林秋楠",
+        "王振威"
+      ],
+      "duration": "141分钟",
+      "region": "中国大陆",
+      "playable": true,
+      "id": "36600459",
+      "types": [
+        "剧情",
+        "动作",
+        "犯罪"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

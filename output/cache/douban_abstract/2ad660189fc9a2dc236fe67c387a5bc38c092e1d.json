@@ -1,0 +1,44 @@
+{
+  "_cached_at": "2026-03-10T20:59:45.105630",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 2.5,
+      "blacklisted": "available",
+      "title": "一英里 One Mile: Chapter One‎ (2026)",
+      "url": "https://movie.douban.com/subject/37003407/",
+      "collection_status": "",
+      "rate": "5.4",
+      "short_comment": {
+        "content": "小投资，大电影，像圆梦之作，意外剧本完满，应该有人就学这个，才能游刃有余，能续集，牛！",
+        "author": "胡说九道"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "亚当·戴维森"
+      ],
+      "actors": [
+        "瑞安·菲利普",
+        "艾米丽·霍菲尔",
+        "莎拉·坎宁",
+        "Sage Linder",
+        "贝薇莉·埃利奥特",
+        "菲尔·伯克",
+        "加布里埃尔·哈辛托",
+        "C·托马斯·豪威尔",
+        "理查德·哈蒙",
+        "迈克尔·艾克朗德"
+      ],
+      "duration": "89分钟",
+      "region": "美国",
+      "playable": false,
+      "id": "37003407",
+      "types": [
+        "剧情"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

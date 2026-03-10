@@ -1,0 +1,35 @@
+{
+  "_cached_at": "2026-03-10T20:57:49.769986",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "维尔·达斯：大笑若愚 Vir Das: Fool Volume‎ (2025)",
+      "url": "https://movie.douban.com/subject/37345816/",
+      "collection_status": "",
+      "rate": "8.1",
+      "short_comment": {
+        "content": "一贯地结构精巧，对语言的音乐性探索愈深。哪天出现以下两种情况我都不意外：出口语诗专场；出柜。",
+        "author": "沈困"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "维尔·达斯"
+      ],
+      "actors": [
+        "维尔·达斯"
+      ],
+      "duration": "",
+      "region": "印度",
+      "playable": false,
+      "id": "37345816",
+      "types": [
+        "喜剧"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

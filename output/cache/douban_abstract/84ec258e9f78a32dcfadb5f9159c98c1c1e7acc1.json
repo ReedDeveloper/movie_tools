@@ -1,0 +1,45 @@
+{
+  "_cached_at": "2026-03-10T20:56:41.882399",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.5,
+      "blacklisted": "available",
+      "title": "寂静的朋友 A néma barát‎ (2025)",
+      "url": "https://movie.douban.com/subject/26967871/",
+      "collection_status": "",
+      "rate": "8.7",
+      "short_comment": {
+        "content": "三星半，素食主义者看完请发表三百字忏悔",
+        "author": "在逃速冻水饺"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "伊尔蒂科·茵叶蒂"
+      ],
+      "actors": [
+        "梁朝伟",
+        "卢娜·韦德勒",
+        "恩佐·布鲁姆",
+        "蕾雅·赛杜",
+        "西尔维斯特·格罗特",
+        "马丁·乌特克",
+        "约翰内斯·赫格曼",
+        "赖纳·博克",
+        "黄云",
+        "菲利克斯·布罗斯"
+      ],
+      "duration": "147分钟",
+      "region": "德国",
+      "playable": false,
+      "id": "26967871",
+      "types": [
+        "剧情",
+        "科幻"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

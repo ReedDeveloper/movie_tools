@@ -1,0 +1,45 @@
+{
+  "_cached_at": "2026-03-10T20:58:15.248657",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "戏台‎ (2025)",
+      "url": "https://movie.douban.com/subject/35483395/",
+      "collection_status": "",
+      "rate": "7.9",
+      "short_comment": {
+        "content": "京戏唱成落子也能叫上好，项羽唱得过河都是为了活。真假名伶涂上了一样的花脸，真假霸王不过是多了个髯口。闺中奸淫当成压腿吊嗓，德薄位尊当成西楚霸王。全戏班都指望背叛祖宗活命，艺术被强权凌辱。但见那京城门楼挂画来了又走，乌江渡口霸王死了又活，唯有台前虞姬的唱词不变，台后的祖宗之灯长明。",
+        "author": "西楼尘"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "陈佩斯"
+      ],
+      "actors": [
+        "陈佩斯",
+        "黄渤",
+        "姜武",
+        "尹正",
+        "杨皓宇",
+        "余少群",
+        "陈大愚",
+        "徐卓儿",
+        "尹铸胜",
+        "徐志胜"
+      ],
+      "duration": "117分钟",
+      "region": "中国大陆",
+      "playable": true,
+      "id": "35483395",
+      "types": [
+        "剧情",
+        "喜剧"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_cached_at": "2026-03-10T20:56:46.141379",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.5,
+      "blacklisted": "available",
+      "title": "唐顿庄园3 Downton Abbey: The Grand Finale‎ (2025)",
+      "url": "https://movie.douban.com/subject/35881440/",
+      "collection_status": "",
+      "rate": "8.6",
+      "short_comment": {
+        "content": "美国属于明天，而英国——英国只有过去和现在，电影捕捉到了新老帝国交替的余晖。最后大小姐站在大厅，过去的幽灵一一浮现，跳起最后一支舞，突然觉得这样的结局也不错。奶奶的出场不是AI，而是以前电视剧的片段，让我看到了对逝者的尊重。拜拜，唐顿庄园。",
+        "author": "同志亦凡人中文站"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "西蒙·柯蒂斯"
+      ],
+      "actors": [
+        "米歇尔·道克瑞",
+        "休·博纳维尔",
+        "伊丽莎白·麦戈文",
+        "劳拉·卡尔迈克尔",
+        "吉姆·卡特",
+        "布兰登·柯伊尔",
+        "琼安·弗洛加特",
+        "保罗·吉亚玛提",
+        "拉奎尔·卡西迪",
+        "凯文·道尔"
+      ],
+      "duration": "123分钟",
+      "region": "英国",
+      "playable": true,
+      "id": "35881440",
+      "types": [
+        "剧情"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

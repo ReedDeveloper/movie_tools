@@ -1,0 +1,36 @@
+{
+  "_cached_at": "2026-03-10T20:57:11.932046",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "艾德·希兰：一镜到底 One Shot with Ed Sheeran: A Music Experience‎ (2025)",
+      "url": "https://movie.douban.com/subject/37727018/",
+      "collection_status": "",
+      "rate": "8.4",
+      "short_comment": {
+        "content": "这样一部明显可以看出拍摄制作有经过设计编排、豆瓣和IMDb类型只有「音乐」的影片却有人添加「纪录片」标签、被加入「纪录片」片单……发现《艾德·希兰：一镜到底》的导演刚好就是《混沌少年时》的导演「菲利普·巴兰蒂尼」便因此惊喜一下。",
+        "author": "Panda的影音"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "菲利普·巴兰蒂尼"
+      ],
+      "actors": [
+        "艾德·希兰",
+        "卡米拉·卡贝洛"
+      ],
+      "duration": "61分钟",
+      "region": "美国",
+      "playable": false,
+      "id": "37727018",
+      "types": [
+        "音乐"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

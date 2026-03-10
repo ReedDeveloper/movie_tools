@@ -1,0 +1,45 @@
+{
+  "_cached_at": "2026-03-10T20:57:37.432034",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "关于约会的一切 Follemente‎ (2025)",
+      "url": "https://movie.douban.com/subject/37067150/",
+      "collection_status": "",
+      "rate": "8.1",
+      "short_comment": {
+        "content": "#27SIFF 现代性约会的独特魅力：因为快乐想留下，因为快乐要离开。",
+        "author": "文"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "保罗·杰诺维塞"
+      ],
+      "actors": [
+        "爱德华多·莱奥",
+        "皮拉尔·福格莉亚蒂",
+        "埃马努艾拉·法内利",
+        "玛丽亚·基娅拉·詹内塔",
+        "克劳迪亚·潘多尔菲",
+        "维多利亚·普契尼",
+        "马可·贾利尼",
+        "毛里齐奥·拉斯特里科",
+        "罗科·帕帕莱奥",
+        "克劳迪奥·桑塔玛利亚"
+      ],
+      "duration": "97分钟",
+      "region": "意大利",
+      "playable": false,
+      "id": "37067150",
+      "types": [
+        "喜剧",
+        "爱情"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

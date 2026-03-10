@@ -1,0 +1,42 @@
+{
+  "_cached_at": "2026-03-10T20:56:29.316465",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.5,
+      "blacklisted": "available",
+      "title": "世界的主人 세계의 주인‎ (2025)",
+      "url": "https://movie.douban.com/subject/37116612/",
+      "collection_status": "",
+      "rate": "9.0",
+      "short_comment": {
+        "content": "平遥收走了我的眼泪。看到这样的韩片，我的脑海里总会浮现三个问题：1、当下，这样的电影为什么不能在我们的影院上映？2、当前，我们的电影人为什么不拍这样的电影？3、此刻，电影人会为影院里上映的那些国产片感到羞耻吗？",
+        "author": "南悠一"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "尹佳恩"
+      ],
+      "actors": [
+        "徐粹彬",
+        "张慧珍",
+        "金郑植",
+        "李宰锡",
+        "姜彩允",
+        "金艺昶",
+        "高旻示",
+        "朴知玧"
+      ],
+      "duration": "119分钟",
+      "region": "韩国",
+      "playable": false,
+      "id": "37116612",
+      "types": [
+        "剧情"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

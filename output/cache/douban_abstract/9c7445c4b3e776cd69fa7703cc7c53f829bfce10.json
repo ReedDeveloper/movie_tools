@@ -1,0 +1,45 @@
+{
+  "_cached_at": "2026-03-10T20:59:27.358350",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.0,
+      "blacklisted": "available",
+      "title": "庇护之地 Shelter‎ (2026)",
+      "url": "https://movie.douban.com/subject/36892468/",
+      "collection_status": "",
+      "rate": "6.0",
+      "short_comment": {
+        "content": "铁打的杰森，流水的片，每年的初春，总会再见。他演的不烦，我看得不厌。就像是久违的朋友一年又见，挺好。",
+        "author": "冷门巨片"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "里克·罗曼·沃夫"
+      ],
+      "actors": [
+        "杰森·斯坦森",
+        "博德希·蕾·布里纳希",
+        "娜奥米·阿基",
+        "比尔·奈伊",
+        "迈克尔·谢弗",
+        "安娜·克里里",
+        "哈丽特·瓦尔特",
+        "尤吉尼亚·克鲁索",
+        "席琳·邦金斯",
+        "巴利·吉尔"
+      ],
+      "duration": "108分钟",
+      "region": "英国",
+      "playable": false,
+      "id": "36892468",
+      "types": [
+        "动作",
+        "惊悚"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_cached_at": "2026-03-10T20:58:03.431424",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "墨鱼游戏2 墨魚遊戲2‎ (2025)",
+      "url": "https://movie.douban.com/subject/37661959/",
+      "collection_status": "",
+      "rate": "8.0",
+      "short_comment": {
+        "content": "网台节目都可以上豆瓣了？看得出香港艺人真的很互相帮忙，还有几个账号网台的大ip也经常互相联动～游戏节目比大陆的强太多了。",
+        "author": "秋霆小朋友"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "梁焯霖"
+      ],
+      "actors": [
+        "游学修",
+        "古天乐",
+        "刘以达",
+        "廖子妤",
+        "周秀娜",
+        "颜卓灵",
+        "胡子彤",
+        "卢镇业",
+        "钱嘉乐",
+        "洪天明"
+      ],
+      "duration": "",
+      "region": "中国香港",
+      "playable": false,
+      "id": "37661959",
+      "types": [
+        "真人秀"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

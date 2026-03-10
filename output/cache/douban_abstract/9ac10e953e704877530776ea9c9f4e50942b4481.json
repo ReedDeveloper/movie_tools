@@ -1,0 +1,46 @@
+{
+  "_cached_at": "2026-03-10T20:59:17.293258",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.0,
+      "blacklisted": "available",
+      "title": "侵略机器 War Machine‎ (2026)",
+      "url": "https://movie.douban.com/subject/35900174/",
+      "collection_status": "",
+      "rate": "6.4",
+      "short_comment": {
+        "content": "俄国人没预算，中国人只会copy",
+        "author": "plink"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "帕特里克·休斯"
+      ],
+      "actors": [
+        "约书亚·迪亚兹",
+        "阿兰·里奇森",
+        "丹尼斯·奎德",
+        "杰·科特尼",
+        "埃塞·莫拉雷斯",
+        "杰克·派顿",
+        "丹尼尔·韦伯",
+        "凯南·朗斯代尔",
+        "大卫·汤姆林森",
+        "史蒂芬·詹姆士"
+      ],
+      "duration": "106分钟",
+      "region": "英国",
+      "playable": false,
+      "id": "35900174",
+      "types": [
+        "动作",
+        "科幻",
+        "惊悚"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

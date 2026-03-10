@@ -1,0 +1,47 @@
+{
+  "_cached_at": "2026-03-10T20:57:03.559120",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "哪吒之魔童闹海‎ (2025)",
+      "url": "https://movie.douban.com/subject/34780991/",
+      "collection_status": "",
+      "rate": "8.4",
+      "short_comment": {
+        "content": "感觉“我命由我不由天”的是申公豹，申公豹真的好努力，努力的小镇做题家，努力攀附强者才能让自己出人头地，好想哭",
+        "author": "丁小雨"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "饺子"
+      ],
+      "actors": [
+        "吕艳婷",
+        "囧森瑟夫",
+        "瀚墨",
+        "陈浩",
+        "绿绮",
+        "张珈铭",
+        "杨卫",
+        "王德顺",
+        "雨辰",
+        "李南"
+      ],
+      "duration": "144分钟",
+      "region": "中国大陆",
+      "playable": true,
+      "id": "34780991",
+      "types": [
+        "剧情",
+        "喜剧",
+        "动画",
+        "奇幻"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_cached_at": "2026-03-10T20:57:01.407234",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "疯狂动物城2 Zootopia 2‎ (2025)",
+      "url": "https://movie.douban.com/subject/26817136/",
+      "collection_status": "",
+      "rate": "8.4",
+      "short_comment": {
+        "content": "结尾蹦出五月天的歌是怎么回事？",
+        "author": "笑谈后现代"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "杰拉德·布什",
+        "拜伦·霍华德"
+      ],
+      "actors": [
+        "金妮弗·古德温",
+        "杰森·贝特曼",
+        "关继威",
+        "福琼·费姆斯特",
+        "安迪·萨姆伯格",
+        "大卫·斯特雷泽恩",
+        "夏奇拉",
+        "伊德瑞斯·艾尔巴",
+        "帕特里克·沃伯顿",
+        "昆塔·布伦森"
+      ],
+      "duration": "108分钟",
+      "region": "美国",
+      "playable": false,
+      "id": "26817136",
+      "types": [
+        "喜剧",
+        "犯罪",
+        "动画",
+        "悬疑",
+        "冒险"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

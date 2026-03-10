@@ -1,0 +1,46 @@
+{
+  "_cached_at": "2026-03-10T20:58:45.351420",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.5,
+      "blacklisted": "available",
+      "title": "洛杉矶劫案 Crime 101‎ (2026)",
+      "url": "https://movie.douban.com/subject/36901008/",
+      "collection_status": "",
+      "rate": "7.2",
+      "short_comment": {
+        "content": "结尾不错，警察得到业绩和新车，女保险员得到无人追索的钻石，盗贼之前案子由黄毛背锅，洗手上岸，重新做人，去谈恋爱。摩托车黄毛一人受伤的世界达成了。",
+        "author": "Audrey Z"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "巴特·雷顿"
+      ],
+      "actors": [
+        "克里斯·海姆斯沃斯",
+        "马克·鲁法洛",
+        "巴里·基奥恩",
+        "哈莉·贝瑞",
+        "莫妮卡·巴巴罗",
+        "科里·霍金斯",
+        "尼克·诺特",
+        "詹妮弗·杰森·李",
+        "泰特·多诺万",
+        "保罗·安德斯坦"
+      ],
+      "duration": "141分钟",
+      "region": "美国",
+      "playable": false,
+      "id": "36901008",
+      "types": [
+        "剧情",
+        "动作",
+        "犯罪"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

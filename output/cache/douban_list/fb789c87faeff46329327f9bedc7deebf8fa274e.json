@@ -1,0 +1,398 @@
+{
+  "_cached_at": "2026-03-10T21:20:50.092673",
+  "data": {
+    "data": [
+      {
+        "directors": [
+          "山下清悟"
+        ],
+        "rate": "8.3",
+        "cover_x": 849,
+        "star": "40",
+        "title": "超时空辉夜姬！",
+        "url": "https://movie.douban.com/subject/37825206/",
+        "casts": [
+          "夏吉优子",
+          "永濑安奈",
+          "早见沙织",
+          "入野自由",
+          "内田雄马"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2928772586.jpg",
+        "id": "37825206",
+        "cover_y": 1200
+      },
+      {
+        "directors": [
+          "泰勒·汤姆林森"
+        ],
+        "rate": "8.3",
+        "cover_x": 648,
+        "star": "40",
+        "title": "泰勒·汤姆林森：浪女回头",
+        "url": "https://movie.douban.com/subject/38198669/",
+        "casts": [
+          "泰勒·汤姆林森"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929880729.jpg",
+        "id": "38198669",
+        "cover_y": 960
+      },
+      {
+        "directors": [
+          "村濑修功"
+        ],
+        "rate": "8.0",
+        "cover_x": 900,
+        "star": "40",
+        "title": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+        "url": "https://movie.douban.com/subject/36117593/",
+        "casts": [
+          "小野贤章",
+          "上田丽奈",
+          "诹访部顺一",
+          "齐藤壮马",
+          "津田健次郎"
+        ],
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2926009741.jpg",
+        "id": "36117593",
+        "cover_y": 1273
+      },
+      {
+        "directors": [
+          "吴炜伦"
+        ],
+        "rate": "7.8",
+        "cover_x": 8098,
+        "star": "40",
+        "title": "夜王",
+        "url": "https://movie.douban.com/subject/37375594/",
+        "casts": [
+          "黄子华",
+          "郑秀文",
+          "王丹妮",
+          "廖子妤",
+          "杨伟伦"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929673775.jpg",
+        "id": "37375594",
+        "cover_y": 11403
+      },
+      {
+        "directors": [
+          "杨秉佳"
+        ],
+        "rate": "7.6",
+        "cover_x": 5906,
+        "star": "40",
+        "title": "东北警察故事3",
+        "url": "https://movie.douban.com/subject/36977669/",
+        "casts": [
+          "谢苗",
+          "林晓杰",
+          "崔志佳",
+          "黄米依",
+          "伍允龙"
+        ],
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929406352.jpg",
+        "id": "36977669",
+        "cover_y": 8267
+      },
+      {
+        "directors": [
+          "袁和平"
+        ],
+        "rate": "7.5",
+        "cover_x": 4285,
+        "star": "40",
+        "title": "镖人：风起大漠",
+        "url": "https://movie.douban.com/subject/36474027/",
+        "casts": [
+          "吴京",
+          "谢霆锋",
+          "于适",
+          "陈丽君",
+          "孙艺洲"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929760596.jpg",
+        "id": "36474027",
+        "cover_y": 6000
+      },
+      {
+        "directors": [
+          "翁子光"
+        ],
+        "rate": "7.4",
+        "cover_x": 3241,
+        "star": "35",
+        "title": "金多宝",
+        "url": "https://movie.douban.com/subject/37843719/",
+        "casts": [
+          "金燕玲",
+          "钟雪莹",
+          "吕爵安",
+          "李尚正",
+          "杨诗敏"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929176538.jpg",
+        "id": "37843719",
+        "cover_y": 4561
+      },
+      {
+        "directors": [
+          "韩寒"
+        ],
+        "rate": "7.3",
+        "cover_x": 5512,
+        "star": "35",
+        "title": "飞驰人生3",
+        "url": "https://movie.douban.com/subject/37311135/",
+        "casts": [
+          "沈腾",
+          "尹正",
+          "黄景瑜",
+          "张本煜",
+          "魏翔"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929427346.jpg",
+        "id": "37311135",
+        "cover_y": 8268
+      },
+      {
+        "directors": [
+          "提莫·贝克曼贝托夫"
+        ],
+        "rate": "7.3",
+        "cover_x": 2000,
+        "star": "35",
+        "title": "极限审判",
+        "url": "https://movie.douban.com/subject/36749573/",
+        "casts": [
+          "克里斯·帕拉特",
+          "丽贝卡·弗格森",
+          "卡莉·瑞斯",
+          "安娜贝尔·沃利斯",
+          "克里斯·沙利文"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929006010.jpg",
+        "id": "36749573",
+        "cover_y": 3000
+      },
+      {
+        "directors": [
+          "巴特·雷顿"
+        ],
+        "rate": "7.2",
+        "cover_x": 3000,
+        "star": "35",
+        "title": "洛杉矶劫案",
+        "url": "https://movie.douban.com/subject/36901008/",
+        "casts": [
+          "克里斯·海姆斯沃斯",
+          "马克·鲁法洛",
+          "巴里·基奥恩",
+          "哈莉·贝瑞",
+          "莫妮卡·巴巴罗"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929956678.jpg",
+        "id": "36901008",
+        "cover_y": 4243
+      },
+      {
+        "directors": [
+          "山姆·雷米"
+        ],
+        "rate": "7.2",
+        "cover_x": 2025,
+        "star": "35",
+        "title": "请求救援",
+        "url": "https://movie.douban.com/subject/34864022/",
+        "casts": [
+          "瑞秋·麦克亚当斯",
+          "迪伦·奥布莱恩",
+          "布鲁斯·坎贝尔",
+          "丹尼斯·海斯伯特",
+          "泽维尔·塞缪尔"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2926236909.jpg",
+        "id": "34864022",
+        "cover_y": 3000
+      },
+      {
+        "directors": [
+          "Nicholaus Goossen"
+        ],
+        "rate": "7.2",
+        "cover_x": 1080,
+        "star": "35",
+        "title": "马尔切洛·埃尔南德斯：美国男孩",
+        "url": "https://movie.douban.com/subject/37920473/",
+        "casts": [
+          "马尔切洛·埃尔南德斯"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2927927314.jpg",
+        "id": "37920473",
+        "cover_y": 1350
+      },
+      {
+        "directors": [
+          "韩延"
+        ],
+        "rate": "6.9",
+        "cover_x": 4370,
+        "star": "35",
+        "title": "星河入梦",
+        "url": "https://movie.douban.com/subject/36883105/",
+        "casts": [
+          "王鹤棣",
+          "宋茜",
+          "祖峰",
+          "罗海琼",
+          "汪铎"
+        ],
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929616093.jpg",
+        "id": "36883105",
+        "cover_y": 6201
+      },
+      {
+        "directors": [
+          "李忠弼"
+        ],
+        "rate": "6.9",
+        "cover_x": 1080,
+        "star": "35",
+        "title": "孔雀舞曲",
+        "url": "https://movie.douban.com/subject/26335563/",
+        "casts": [
+          "高我星",
+          "文相敏",
+          "卞约汉",
+          "韩宥恩"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929694596.jpg",
+        "id": "26335563",
+        "cover_y": 1350
+      },
+      {
+        "directors": [
+          "松本优作"
+        ],
+        "rate": "6.7",
+        "cover_x": 1080,
+        "star": "35",
+        "title": "这就是我",
+        "url": "https://movie.douban.com/subject/37806619/",
+        "casts": [
+          "望月春希",
+          "木村多江",
+          "千原靖史",
+          "中村中",
+          "吉村界人"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929035956.jpg",
+        "id": "37806619",
+        "cover_y": 1350
+      },
+      {
+        "directors": [
+          "李太言"
+        ],
+        "rate": "6.6",
+        "cover_x": 3000,
+        "star": "35",
+        "title": "过家家",
+        "url": "https://movie.douban.com/subject/36790513/",
+        "casts": [
+          "成龙",
+          "彭昱畅",
+          "张佳宁",
+          "潘斌龙",
+          "李萍"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2928389426.jpg",
+        "id": "36790513",
+        "cover_y": 4200
+      },
+      {
+        "directors": [
+          "林汇达"
+        ],
+        "rate": "6.6",
+        "cover_x": 5024,
+        "star": "35",
+        "title": "熊出没·年年有熊",
+        "url": "https://movie.douban.com/subject/37427493/",
+        "casts": [
+          "张伟",
+          "张秉君",
+          "谭笑",
+          "王兵兵",
+          "聂吉轩"
+        ],
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2930029531.jpg",
+        "id": "37427493",
+        "cover_y": 7500
+      },
+      {
+        "directors": [
+          "尼娅·达科斯塔"
+        ],
+        "rate": "6.6",
+        "cover_x": 2701,
+        "star": "35",
+        "title": "惊变28年2：白骨圣殿",
+        "url": "https://movie.douban.com/subject/36850893/",
+        "casts": [
+          "拉尔夫·费因斯",
+          "杰克·奥康奈尔",
+          "阿尔菲·威廉姆斯",
+          "艾玛·莱尔德",
+          "艾琳·凯利曼"
+        ],
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927456643.jpg",
+        "id": "36850893",
+        "cover_y": 4000
+      },
+      {
+        "directors": [
+          "乔·卡纳汉"
+        ],
+        "rate": "6.6",
+        "cover_x": 1500,
+        "star": "35",
+        "title": "全信没收",
+        "url": "https://movie.douban.com/subject/36932394/",
+        "casts": [
+          "马特·达蒙",
+          "本·阿弗莱克",
+          "史蒂文·元",
+          "缇雅娜·泰勒",
+          "卡塔琳娜·桑地诺·莫雷诺"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2925091095.jpg",
+        "id": "36932394",
+        "cover_y": 2222
+      },
+      {
+        "directors": [
+          "安德鲁·斯坦顿"
+        ],
+        "rate": "6.6",
+        "cover_x": 1334,
+        "star": "35",
+        "title": "眨眼之间",
+        "url": "https://movie.douban.com/subject/36116692/",
+        "casts": [
+          "凯特·麦克金农",
+          "戴维德·迪格斯",
+          "拉什达·琼斯",
+          "Jorge Vargas",
+          "塔娜亚·比蒂"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2928140000.jpg",
+        "id": "36116692",
+        "cover_y": 2000
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_cached_at": "2026-03-10T20:56:43.918994",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.5,
+      "blacklisted": "available",
+      "title": "近乎正常 Next to Normal: The Musical‎ (2025)",
+      "url": "https://movie.douban.com/subject/37271208/",
+      "collection_status": "",
+      "rate": "8.7",
+      "short_comment": {
+        "content": "我不确定用家庭喜剧来给双相情感障碍破题是不是一个好的解法，它用音乐为患者搭建了一个近乎童话的治疗环境：丈夫不离不弃，医生德艺双馨，女儿想要被妈妈看见（女儿十六年都在对抗一个几乎不可能战胜的幻觉），干净的社会关系，配套成熟的社区，不用担心经济问题，直到患者决定独自面对内心的问题为止。事实上那些现实以下的创伤比亮丽的舞台要来得溃烂和肮脏。但至少提供了一种解法吧，哪怕它只是一针舞台镇痛剂。",
+        "author": "补特伽罗"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [],
+      "actors": [
+        "埃莉诺•沃辛顿-考克斯",
+        "杰米·帕克",
+        "杰克·沃尔夫"
+      ],
+      "duration": "",
+      "region": "英国",
+      "playable": false,
+      "id": "37271208",
+      "types": [
+        "剧情",
+        "歌舞"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

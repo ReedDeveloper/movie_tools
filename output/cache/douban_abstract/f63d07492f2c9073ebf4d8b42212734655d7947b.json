@@ -1,0 +1,46 @@
+{
+  "_cached_at": "2026-03-10T20:58:17.208396",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "百米。 ひゃくえむ。‎ (2025)",
+      "url": "https://movie.douban.com/subject/36907263/",
+      "collection_status": "",
+      "rate": "7.9",
+      "short_comment": {
+        "content": "太会拍了，这才是“你想活出怎样的人生”",
+        "author": "metaphor17"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "岩井泽健治"
+      ],
+      "actors": [
+        "松坂桃李",
+        "染谷将太",
+        "笠间淳",
+        "高桥李依",
+        "田中有纪",
+        "种崎敦美",
+        "悠木碧",
+        "内田雄马",
+        "内山昂辉",
+        "津田健次郎"
+      ],
+      "duration": "106分钟",
+      "region": "日本",
+      "playable": false,
+      "id": "36907263",
+      "types": [
+        "剧情",
+        "动画",
+        "运动"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

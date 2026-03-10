@@ -1,0 +1,46 @@
+{
+  "_cached_at": "2026-03-10T20:59:41.355476",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.0,
+      "blacklisted": "available",
+      "title": "惊声尖叫7 Scream 7‎ (2026)",
+      "url": "https://movie.douban.com/subject/36314193/",
+      "collection_status": "",
+      "rate": "5.6",
+      "short_comment": {
+        "content": "恐怖喜剧片，乱来一锅炖，拍到后面导演自己也想笑吧😂",
+        "author": "By the sea"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "凯文·威廉姆森"
+      ],
+      "actors": [
+        "内芙·坎贝尔",
+        "伊莎贝尔·梅",
+        "柯特妮·考克斯",
+        "梅森·古丁",
+        "贾思敏·萨沃伊·布朗",
+        "大卫·阿奎特",
+        "马修·里沃德",
+        "斯科特·弗利",
+        "塞莱斯特·奥康纳",
+        "阿萨·格尔曼"
+      ],
+      "duration": "114分钟",
+      "region": "美国",
+      "playable": false,
+      "id": "36314193",
+      "types": [
+        "悬疑",
+        "惊悚",
+        "恐怖"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

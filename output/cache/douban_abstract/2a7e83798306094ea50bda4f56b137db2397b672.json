@@ -1,0 +1,45 @@
+{
+  "_cached_at": "2026-03-10T20:58:33.578524",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "夜王‎ (2026)",
+      "url": "https://movie.douban.com/subject/37375594/",
+      "collection_status": "",
+      "rate": "7.8",
+      "short_comment": {
+        "content": "对女性的刻画明明很好啊？没有争风吃醋没有抢夺男性资源，而是把男人当“可选择的鞋子”，最后一起联合起来，一起反击资本，且义气这个词不限于男性的！V姐，一个能因为算命就跟男人果断分开的女性，你说她缺少主体性？不懂",
+        "author": "雷宝珠"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "吴炜伦"
+      ],
+      "actors": [
+        "黄子华",
+        "郑秀文",
+        "王丹妮",
+        "廖子妤",
+        "杨伟伦",
+        "谢君豪",
+        "卢镇业",
+        "何启华",
+        "杨偲泳",
+        "谭旻萱"
+      ],
+      "duration": "133分钟(中国大陆)",
+      "region": "中国大陆",
+      "playable": false,
+      "id": "37375594",
+      "types": [
+        "剧情",
+        "喜剧"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

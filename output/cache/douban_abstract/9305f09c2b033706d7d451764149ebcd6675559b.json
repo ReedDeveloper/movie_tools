@@ -1,0 +1,45 @@
+{
+  "_cached_at": "2026-03-10T20:58:39.540611",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.5,
+      "blacklisted": "available",
+      "title": "金多宝 金多寶‎ (2026)",
+      "url": "https://movie.douban.com/subject/37843719/",
+      "collection_status": "",
+      "rate": "7.4",
+      "short_comment": {
+        "content": "是感人的合家歡電影🎬賀歲檔暖心之選～",
+        "author": "卷你"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "翁子光"
+      ],
+      "actors": [
+        "金燕玲",
+        "钟雪莹",
+        "吕爵安",
+        "李尚正",
+        "杨诗敏",
+        "李铠霖",
+        "刘锡贤",
+        "许冠文",
+        "古天乐",
+        "鲍起静"
+      ],
+      "duration": "131分钟",
+      "region": "中国香港",
+      "playable": false,
+      "id": "37843719",
+      "types": [
+        "剧情",
+        "喜剧"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "_cached_at": "2026-03-10T20:58:25.894655",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "头号战队豪兽者：复活的特伽索德 ナンバーワン戦隊ゴジュウジャー 復活のテガソード‎ (2025)",
+      "url": "https://movie.douban.com/subject/37209859/",
+      "collection_status": "",
+      "rate": "7.9",
+      "short_comment": {
+        "content": "热热闹闹",
+        "author": "Hippy"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "田崎龙太"
+      ],
+      "actors": [
+        "冬野心央",
+        "铃木秀修",
+        "神田圣司",
+        "松本仁",
+        "今森茉耶",
+        "木村魁希",
+        "本岛纯政"
+      ],
+      "duration": "30分钟",
+      "region": "日本",
+      "playable": false,
+      "id": "37209859",
+      "types": [
+        "剧情",
+        "动作",
+        "科幻"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

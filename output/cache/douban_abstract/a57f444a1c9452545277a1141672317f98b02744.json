@@ -1,0 +1,47 @@
+{
+  "_cached_at": "2026-03-10T20:58:11.343532",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "哈姆奈特 Hamnet‎ (2025)",
+      "url": "https://movie.douban.com/subject/35618471/",
+      "collection_status": "",
+      "rate": "7.9",
+      "short_comment": {
+        "content": "如果哈姆雷特出自父亲的丧子之痛 那么母亲的痛苦去向何处",
+        "author": "山"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "赵婷"
+      ],
+      "actors": [
+        "杰西·巴克利",
+        "保罗·麦斯卡",
+        "雅各比·尤佩",
+        "奥利维娅·莱恩斯",
+        "博德希·蕾·布里纳希",
+        "乔·阿尔文",
+        "艾米丽·沃森",
+        "扎克·威沙特",
+        "詹姆斯·林特恩",
+        "贾斯汀·米切尔"
+      ],
+      "duration": "125分钟",
+      "region": "英国",
+      "playable": false,
+      "id": "35618471",
+      "types": [
+        "剧情",
+        "传记",
+        "历史",
+        "爱情"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

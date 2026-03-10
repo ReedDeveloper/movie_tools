@@ -1,0 +1,41 @@
+{
+  "_cached_at": "2026-03-10T20:57:28.922209",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "冰雪奇缘：音乐剧 Frozen: The Hit Broadway Musical‎ (2025)",
+      "url": "https://movie.douban.com/subject/37376283/",
+      "collection_status": "",
+      "rate": "8.2",
+      "short_comment": {
+        "content": "可爱的演员\n神级舞美\n音乐剧最强官摄",
+        "author": "📽Anakin🏂💨"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "布雷特·沙利文",
+        "迈克尔·格兰达吉"
+      ],
+      "actors": [
+        "萨曼莎·巴克斯",
+        "Craig Gallivan"
+      ],
+      "duration": "112分钟",
+      "region": "美国",
+      "playable": false,
+      "id": "37376283",
+      "types": [
+        "喜剧",
+        "奇幻",
+        "冒险",
+        "歌舞",
+        "家庭"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

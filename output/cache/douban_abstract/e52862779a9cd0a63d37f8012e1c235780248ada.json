@@ -1,0 +1,44 @@
+{
+  "_cached_at": "2026-03-10T20:59:25.452726",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.0,
+      "blacklisted": "available",
+      "title": "不过是上班‎ (2026)",
+      "url": "https://movie.douban.com/subject/37193378/",
+      "collection_status": "",
+      "rate": "6.0",
+      "short_comment": {
+        "content": "抄疯狂星期一都不会抄，好在不是正经翻拍，越往后越崩",
+        "author": "JoeyLu陆柏宇"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "王梓骏"
+      ],
+      "actors": [
+        "吴俊霆",
+        "李孝谦",
+        "安娜",
+        "周德华",
+        "合文俊",
+        "小爱",
+        "帕赛",
+        "孙天宇",
+        "李逗逗",
+        "李川"
+      ],
+      "duration": "101分钟",
+      "region": "中国大陆",
+      "playable": true,
+      "id": "37193378",
+      "types": [
+        "喜剧"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

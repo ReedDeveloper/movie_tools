@@ -1,0 +1,46 @@
+{
+  "_cached_at": "2026-03-10T20:58:37.435105",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "镖人：风起大漠‎ (2026)",
+      "url": "https://movie.douban.com/subject/36474027/",
+      "collection_status": "",
+      "rate": "7.5",
+      "short_comment": {
+        "content": "谁写的台词「我就是大沙暴」啊？？？",
+        "author": "AAA建材刘哥"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "袁和平"
+      ],
+      "actors": [
+        "吴京",
+        "谢霆锋",
+        "于适",
+        "陈丽君",
+        "孙艺洲",
+        "此沙",
+        "李云霄",
+        "梁家辉",
+        "张晋",
+        "惠英红"
+      ],
+      "duration": "126分钟",
+      "region": "中国大陆",
+      "playable": false,
+      "id": "36474027",
+      "types": [
+        "动作",
+        "武侠",
+        "古装"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

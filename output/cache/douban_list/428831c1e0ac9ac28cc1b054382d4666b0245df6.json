@@ -1,0 +1,395 @@
+{
+  "_cached_at": "2026-03-10T21:20:51.961714",
+  "data": {
+    "data": [
+      {
+        "directors": [
+          "贾斯汀·马丁"
+        ],
+        "rate": "9.2",
+        "cover_x": 1826,
+        "star": "45",
+        "title": "非穷尽列举",
+        "url": "https://movie.douban.com/subject/37293378/",
+        "casts": [
+          "裴淳华",
+          "杰米·格洛弗"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2930171065.jpg",
+        "id": "37293378",
+        "cover_y": 2589
+      },
+      {
+        "directors": [
+          "莉兹·帕特里克"
+        ],
+        "rate": "9.1",
+        "cover_x": 661,
+        "star": "45",
+        "title": "周六夜现场五十周年特别篇",
+        "url": "https://movie.douban.com/subject/37225845/",
+        "casts": [
+          "洛恩·迈克尔斯",
+          "史蒂夫·马丁",
+          "汤姆·汉克斯",
+          "约翰·木兰尼",
+          "马丁·肖特"
+        ],
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2918494547.jpg",
+        "id": "37225845",
+        "cover_y": 832
+      },
+      {
+        "directors": [
+          "尹佳恩"
+        ],
+        "rate": "9.0",
+        "cover_x": 2638,
+        "star": "45",
+        "title": "世界的主人",
+        "url": "https://movie.douban.com/subject/37116612/",
+        "casts": [
+          "徐粹彬",
+          "张慧珍",
+          "金郑植",
+          "李宰锡",
+          "姜彩允"
+        ],
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924183583.jpg",
+        "id": "37116612",
+        "cover_y": 3779
+      },
+      {
+        "directors": [],
+        "rate": "8.9",
+        "cover_x": 1537,
+        "star": "45",
+        "title": "万物生灵：2025圣诞特别集",
+        "url": "https://movie.douban.com/subject/36787731/",
+        "casts": [
+          "尼古拉斯·瑞夫",
+          "蕾切尔·申顿",
+          "萨缪尔·韦斯特",
+          "安娜·梅德利",
+          "卡勒姆·伍德豪斯"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2927816384.jpg",
+        "id": "36787731",
+        "cover_y": 2050
+      },
+      {
+        "directors": [],
+        "rate": "8.9",
+        "cover_x": 1179,
+        "star": "45",
+        "title": "吉安马可·索雷西：欢乐窃贼",
+        "url": "https://movie.douban.com/subject/37496194/",
+        "casts": [
+          "吉安马可·索雷西"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2925244059.jpg",
+        "id": "37496194",
+        "cover_y": 1467
+      },
+      {
+        "directors": [
+          "申奥"
+        ],
+        "rate": "8.8",
+        "cover_x": 4134,
+        "star": "45",
+        "title": "南京照相馆",
+        "url": "https://movie.douban.com/subject/36809864/",
+        "casts": [
+          "刘昊然",
+          "王传君",
+          "高叶",
+          "王骁",
+          "周游"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2924276740.jpg",
+        "id": "36809864",
+        "cover_y": 5784
+      },
+      {
+        "directors": [
+          "约瑟夫·科辛斯基"
+        ],
+        "rate": "8.7",
+        "cover_x": 3000,
+        "star": "45",
+        "title": "F1：狂飙飞车",
+        "url": "https://movie.douban.com/subject/35689244/",
+        "casts": [
+          "布拉德·皮特",
+          "戴姆森·伊德瑞斯",
+          "哈维尔·巴登",
+          "凯瑞·康顿",
+          "托比亚斯·门基斯"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2922238175.jpg",
+        "id": "35689244",
+        "cover_y": 4444
+      },
+      {
+        "directors": [
+          "木头",
+          "顾杰"
+        ],
+        "rate": "8.7",
+        "cover_x": 1500,
+        "star": "45",
+        "title": "罗小黑战记2",
+        "url": "https://movie.douban.com/subject/36448279/",
+        "casts": [
+          "山新",
+          "刘明月",
+          "朱婧",
+          "栾立胜",
+          "傅晨阳"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923537864.jpg",
+        "id": "36448279",
+        "cover_y": 2146
+      },
+      {
+        "directors": [
+          "伊尔蒂科·茵叶蒂"
+        ],
+        "rate": "8.7",
+        "cover_x": 1280,
+        "star": "45",
+        "title": "寂静的朋友",
+        "url": "https://movie.douban.com/subject/26967871/",
+        "casts": [
+          "梁朝伟",
+          "卢娜·韦德勒",
+          "恩佐·布鲁姆",
+          "蕾雅·赛杜",
+          "西尔维斯特·格罗特"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2929549798.jpg",
+        "id": "26967871",
+        "cover_y": 1920
+      },
+      {
+        "directors": [
+          "Michael Longhurst",
+          "Austin Shaw"
+        ],
+        "rate": "8.7",
+        "cover_x": 481,
+        "star": "45",
+        "title": "近乎正常",
+        "url": "https://movie.douban.com/subject/37271208/",
+        "casts": [
+          "埃莉诺•沃辛顿-考克斯",
+          "杰米·帕克",
+          "杰克·沃尔夫"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2927179949.jpg",
+        "id": "37271208",
+        "cover_y": 725
+      },
+      {
+        "directors": [
+          "西蒙·柯蒂斯"
+        ],
+        "rate": "8.6",
+        "cover_x": 1080,
+        "star": "45",
+        "title": "唐顿庄园3",
+        "url": "https://movie.douban.com/subject/35881440/",
+        "casts": [
+          "米歇尔·道克瑞",
+          "休·博纳维尔",
+          "伊丽莎白·麦戈文",
+          "劳拉·卡尔迈克尔",
+          "吉姆·卡特"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2922967026.jpg",
+        "id": "35881440",
+        "cover_y": 1600
+      },
+      {
+        "directors": [
+          "Ladislas Chollat"
+        ],
+        "rate": "8.6",
+        "cover_x": 1377,
+        "star": "45",
+        "title": "莫里哀：音乐剧",
+        "url": "https://movie.douban.com/subject/37442893/",
+        "casts": [
+          "David Alexis",
+          "Abi Bernadoth",
+          "Lou Jean",
+          "Shaina Pronzola",
+          "Tommy Tremblay"
+        ],
+        "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923562695.jpg",
+        "id": "37442893",
+        "cover_y": 2048
+      },
+      {
+        "directors": [
+          "保罗·达格代尔",
+          "凯恩·萨菲亚里",
+          "克里斯多夫·斯科特"
+        ],
+        "rate": "8.6",
+        "cover_x": 964,
+        "star": "45",
+        "title": "魔法坏女巫：奇幻之夜",
+        "url": "https://movie.douban.com/subject/37352648/",
+        "casts": [
+          "辛西娅·埃里沃",
+          "爱莉安娜·格兰德",
+          "杨紫琼",
+          "杰夫·高布伦",
+          "伊迪娜·门泽尔"
+        ],
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2929166541.jpg",
+        "id": "37352648",
+        "cover_y": 1350
+      },
+      {
+        "directors": [
+          "肖恩·福利"
+        ],
+        "rate": "8.6",
+        "cover_x": 1651,
+        "star": "45",
+        "title": "奇爱博士",
+        "url": "https://movie.douban.com/subject/37149048/",
+        "casts": [
+          "史蒂夫·库根",
+          "奥利弗·阿尔文-威尔逊"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2916703020.jpg",
+        "id": "37149048",
+        "cover_y": 2340
+      },
+      {
+        "directors": [
+          "於水"
+        ],
+        "rate": "8.5",
+        "cover_x": 3757,
+        "star": "45",
+        "title": "浪浪山小妖怪",
+        "url": "https://movie.douban.com/subject/36438475/",
+        "casts": [
+          "陈子平",
+          "路扬",
+          "董汶亮",
+          "刘琮",
+          "林强"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2923770138.jpg",
+        "id": "36438475",
+        "cover_y": 6000
+      },
+      {
+        "directors": [
+          "近藤光",
+          "外崎春雄"
+        ],
+        "rate": "8.5",
+        "cover_x": 7096,
+        "star": "45",
+        "title": "鬼灭之刃：无限城篇 第一章 猗窝座再袭",
+        "url": "https://movie.douban.com/subject/36524559/",
+        "casts": [
+          "花江夏树",
+          "鬼头明里",
+          "下野纮",
+          "松冈祯丞",
+          "上田丽奈"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2926775179.jpg",
+        "id": "36524559",
+        "cover_y": 10031
+      },
+      {
+        "directors": [
+          "麦克斯·韦伯斯特"
+        ],
+        "rate": "8.5",
+        "cover_x": 874,
+        "star": "45",
+        "title": "认真的重要性",
+        "url": "https://movie.douban.com/subject/37037509/",
+        "casts": [
+          "舒提·盖特瓦",
+          "理查德·坎特",
+          "莎伦·D·克拉克"
+        ],
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2916700423.jpg",
+        "id": "37037509",
+        "cover_y": 1240
+      },
+      {
+        "directors": [
+          "马库斯·雷波依"
+        ],
+        "rate": "8.5",
+        "cover_x": 1335,
+        "star": "45",
+        "title": "致敬幽默大师柯南·奥布莱恩专场",
+        "url": "https://movie.douban.com/subject/37301640/",
+        "casts": [
+          "柯南·奥布莱恩",
+          "比尔·伯尔",
+          "史蒂芬·科拜尔",
+          "威尔·法瑞尔",
+          "妮基·格拉瑟"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2921229529.jpg",
+        "id": "37301640",
+        "cover_y": 1677
+      },
+      {
+        "directors": [
+          "杰拉德·布什",
+          "拜伦·霍华德"
+        ],
+        "rate": "8.4",
+        "cover_x": 5048,
+        "star": "40",
+        "title": "疯狂动物城2",
+        "url": "https://movie.douban.com/subject/26817136/",
+        "casts": [
+          "金妮弗·古德温",
+          "杰森·贝特曼",
+          "关继威",
+          "福琼·费姆斯特",
+          "安迪·萨姆伯格"
+        ],
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2926605350.jpg",
+        "id": "26817136",
+        "cover_y": 7212
+      },
+      {
+        "directors": [
+          "饺子"
+        ],
+        "rate": "8.4",
+        "cover_x": 5906,
+        "star": "40",
+        "title": "哪吒之魔童闹海",
+        "url": "https://movie.douban.com/subject/34780991/",
+        "casts": [
+          "吕艳婷",
+          "囧森瑟夫",
+          "瀚墨",
+          "陈浩",
+          "绿绮"
+        ],
+        "cover": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2916323291.jpg",
+        "id": "34780991",
+        "cover_y": 8268
+      }
+    ]
+  }
+}

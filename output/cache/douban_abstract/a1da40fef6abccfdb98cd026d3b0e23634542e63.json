@@ -1,0 +1,47 @@
+{
+  "_cached_at": "2026-03-10T20:56:39.813679",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.5,
+      "blacklisted": "available",
+      "title": "罗小黑战记2‎ (2025)",
+      "url": "https://movie.douban.com/subject/36448279/",
+      "collection_status": "",
+      "rate": "8.7",
+      "short_comment": {
+        "content": "瑕不掩瑜。非常好的一点是，一点儿爹味都没有，不judge任何人（妖精），没有任何人（妖精）需要被打败或悔过。这在中国的大型说教重灾区———国漫中已是十分可贵。",
+        "author": "DON’T PANIC"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "木头",
+        "顾杰"
+      ],
+      "actors": [
+        "山新",
+        "刘明月",
+        "朱婧",
+        "栾立胜",
+        "傅晨阳",
+        "言灵",
+        "陈启刚",
+        "皇贞季",
+        "李璐",
+        "陈思宇"
+      ],
+      "duration": "119分钟",
+      "region": "中国大陆",
+      "playable": true,
+      "id": "36448279",
+      "types": [
+        "动画",
+        "奇幻",
+        "冒险"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

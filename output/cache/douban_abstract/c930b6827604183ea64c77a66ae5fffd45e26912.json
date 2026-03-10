@@ -1,0 +1,44 @@
+{
+  "_cached_at": "2026-03-10T20:59:19.581356",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.0,
+      "blacklisted": "available",
+      "title": "教场 Reunion 教場 Reunion‎ (2026)",
+      "url": "https://movie.douban.com/subject/36135296/",
+      "collection_status": "",
+      "rate": "6.1",
+      "short_comment": {
+        "content": "你要是搞个提前政审能省80%的p事",
+        "author": "沈精病"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "中江功"
+      ],
+      "actors": [
+        "木村拓哉",
+        "大岛优子",
+        "川口春奈",
+        "目黑莲",
+        "福原遥",
+        "赤楚卫二",
+        "白石麻衣",
+        "染谷将太",
+        "坂口宪二"
+      ],
+      "duration": "151分钟",
+      "region": "日本",
+      "playable": false,
+      "id": "36135296",
+      "types": [
+        "剧情",
+        "悬疑"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

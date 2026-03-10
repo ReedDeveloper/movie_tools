@@ -1,0 +1,12 @@
+2026-03-10 19:47:07,120 - services.tmdb - WARNING - TMDB_API_KEY is not set. Enrichment will be limited.
+2026-03-10 19:47:07,120 - spiders.douban - INFO - Fetching top movies for year: 2026
+2026-03-10 19:47:08,897 - spiders.douban - INFO - Fetching top movies for year: 2025
+2026-03-10 19:47:10,297 - jieba - DEBUG - Building prefix dict from the default dictionary ...
+2026-03-10 19:47:10,298 - jieba - DEBUG - Loading model from cache C:\Users\zhougj\AppData\Local\Temp\jieba.cache
+2026-03-10 19:47:10,856 - jieba - DEBUG - Loading model cost 0.559 seconds.
+2026-03-10 19:47:10,856 - jieba - DEBUG - Prefix dict has been built successfully.
+2026-03-10 19:49:19,728 - utils.storage - INFO - Data saved to output\monthly_digest_20260310194919.csv
+2026-03-10 19:49:19,730 - utils.storage - INFO - Digest markdown saved to output\monthly_digest_20260310194919.md
+2026-03-10 19:49:20,010 - __main__ - INFO - Digest 20260310194919 generated with 12 movies.
+2026-03-10 19:49:20,010 - __main__ - INFO - Export saved to output\monthly_digest_20260310194919.csv
+2026-03-10 19:49:20,011 - __main__ - INFO - Digest markdown saved to output\monthly_digest_20260310194919.md

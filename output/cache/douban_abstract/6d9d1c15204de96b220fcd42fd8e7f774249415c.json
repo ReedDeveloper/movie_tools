@@ -1,0 +1,41 @@
+{
+  "_cached_at": "2026-03-10T20:57:51.559018",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 4.0,
+      "blacklisted": "available",
+      "title": "诗人 Un Poeta‎ (2025)",
+      "url": "https://movie.douban.com/subject/36207047/",
+      "collection_status": "",
+      "rate": "8.0",
+      "short_comment": {
+        "content": "平庸的高贵的软弱的，一边朽坏一边尖叫。",
+        "author": "沈困"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "西蒙·梅萨·索托"
+      ],
+      "actors": [
+        "乌贝马尔·里奥斯",
+        "蕾韦卡·安德拉德",
+        "吉列尔莫·卡多纳",
+        "阿利森·科雷亚",
+        "翁贝托·雷斯特雷波",
+        "玛格丽塔·索托"
+      ],
+      "duration": "120分钟(戛纳电影节)",
+      "region": "哥伦比亚",
+      "playable": false,
+      "id": "36207047",
+      "types": [
+        "剧情",
+        "喜剧"
+      ],
+      "release_year": "2025"
+    }
+  }
+}

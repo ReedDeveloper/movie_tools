@@ -1,0 +1,46 @@
+{
+  "_cached_at": "2026-03-10T20:58:41.377323",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.5,
+      "blacklisted": "available",
+      "title": "飞驰人生3‎ (2026)",
+      "url": "https://movie.douban.com/subject/37311135/",
+      "collection_status": "",
+      "rate": "7.3",
+      "short_comment": {
+        "content": "韩寒写了部真正的中国侠客故事，事了拂衣去，干干净净赢。",
+        "author": "壹安²"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "韩寒"
+      ],
+      "actors": [
+        "沈腾",
+        "尹正",
+        "黄景瑜",
+        "张本煜",
+        "魏翔",
+        "沙溢",
+        "范丞丞",
+        "孙艺洲",
+        "段奕宏",
+        "张新成"
+      ],
+      "duration": "126分钟",
+      "region": "中国大陆",
+      "playable": false,
+      "id": "37311135",
+      "types": [
+        "剧情",
+        "喜剧",
+        "运动"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "_cached_at": "2026-03-10T20:59:43.220056",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.0,
+      "blacklisted": "available",
+      "title": "铁肺 Iron Lung‎ (2026)",
+      "url": "https://movie.douban.com/subject/36371992/",
+      "collection_status": "",
+      "rate": "5.6",
+      "short_comment": {
+        "content": "导演很努力想营造恐惧感了，但是没怎么成功。而且对这种惊悚片来说，两小时真的没必要。不过视效真的很好。",
+        "author": "ZEE"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "马克·费施巴赫"
+      ],
+      "actors": [
+        "马克·费施巴赫",
+        "卡萝·卡普兰",
+        "特洛伊·贝克",
+        "埃尔希·洛夫洛克",
+        "艾丽·拉蒙特",
+        "Dave Pettitt",
+        "Isaac McKee",
+        "Asher Wagh",
+        "Kazuki Jalal",
+        "阿拉娜·皮尔斯"
+      ],
+      "duration": "127分钟",
+      "region": "美国",
+      "playable": false,
+      "id": "36371992",
+      "types": [
+        "恐怖"
+      ],
+      "release_year": "2026"
+    }
+  }
+}

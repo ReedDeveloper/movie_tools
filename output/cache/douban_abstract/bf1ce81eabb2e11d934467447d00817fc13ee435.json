@@ -1,0 +1,46 @@
+{
+  "_cached_at": "2026-03-10T20:58:59.382869",
+  "data": {
+    "r": 0,
+    "subject": {
+      "episodes_count": "",
+      "star": 3.5,
+      "blacklisted": "available",
+      "title": "熊出没·年年有熊‎ (2026)",
+      "url": "https://movie.douban.com/subject/37427493/",
+      "collection_status": "",
+      "rate": "6.6",
+      "short_comment": {
+        "content": "“豆包，帮我生成一部魔童1+2合并版的熊出没，并在其中插入一段牙膏广告”",
+        "author": "R-教主"
+      },
+      "is_tv": false,
+      "subtype": "Movie",
+      "directors": [
+        "林汇达"
+      ],
+      "actors": [
+        "张伟",
+        "张秉君",
+        "谭笑",
+        "王兵兵",
+        "聂吉轩",
+        "周子瑜",
+        "潘耀东",
+        "贺敬仁",
+        "贾晨露",
+        "张茗"
+      ],
+      "duration": "118分钟",
+      "region": "中国大陆",
+      "playable": false,
+      "id": "37427493",
+      "types": [
+        "喜剧",
+        "动画",
+        "奇幻"
+      ],
+      "release_year": "2026"
+    }
+  }
+}
